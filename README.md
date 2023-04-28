@@ -80,7 +80,7 @@ this is and simple html css project it includes all tools and dependencies
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://index.html.com)
+-  the live demo link is not yet available.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
